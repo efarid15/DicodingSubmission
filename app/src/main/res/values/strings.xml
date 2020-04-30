@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UmrahApps</string>
+    <string name="profile">Profile</string>
+    <string name="nama_paket">Nama Paket</string>
+    <string name="harga_paket">Harga Paket</string>
+    <string name="nama_paket_umrah">Nama Paket Umrah</string>
+    <string name="detail_paket">Detail Paket</string>
+    <string name="fasilitas_content">Fasilitas Content</string>
+    <string name="syarat_ketentuan">Syarat Ketentuan</string>
+    <string name="syarat_ketentuan_content">Syarat Ketentuan Content</string>
+    <string name="daftar_sekarang">Daftar Sekarang</string>
+    <string name="myname">Zainal Farid Ifat</string>
+    <string name="email_me">enal.farid@gmail.com</string>
+    <string name="product_manager">I\'m just passionately curious</string>
+    <string name="my_web">https://www.enalfarid.me</string>
+</resources>
