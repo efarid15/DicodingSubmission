@@ -10,7 +10,8 @@
         android:layout_marginTop="4dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="4dp"
-        card_view:cardCornerRadius="4dp"
+        card_view:cardCornerRadius="6dp"
+        card_view:cardElevation="3dp"
 
 >
     <RelativeLayout
@@ -48,9 +49,10 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/harga_paket"
-                    android:textColor="@android:color/black"
-                    android:textSize="15sp"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="17sp"
                     android:textStyle="bold"
+
             />
 
 
