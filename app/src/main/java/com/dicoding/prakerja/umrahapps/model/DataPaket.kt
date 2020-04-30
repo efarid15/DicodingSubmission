@@ -1,5 +1,7 @@
 package com.dicoding.prakerja.umrahapps.model
 
+import android.util.Log
+
 object DataPaket {
     private var data = arrayOf(
         arrayOf(
@@ -137,5 +139,6 @@ object DataPaket {
                 list.add(paketumrah)
             }
             return list
+
         }
 }
